@@ -4,13 +4,8 @@ Design an algorithm to find the maximum profit. You may complete as many transac
 
 Solution:
 class Solution {
-
 public:
-
     int maxProfit(vector<int> &prices) {
-
         
-
     }
-
 };
